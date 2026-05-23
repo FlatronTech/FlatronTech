@@ -3,7 +3,7 @@
 ## Current things i worked on:
 
 * 📂 **[Flatron Files](https://flatronfiles.gt.tc)** - A small free database for files :P
-- 💿 **[EnderOS](https://github.com/FlatronTech/EnderOS)** - A debloated windows 11 (well, only its files :P)
+- 💿 **[EnderOS]([https://github.com/FlatronTech/Ender-OS)** - A debloated windows 11 (well, only its files :P)
 
 ##  My Activity
 
