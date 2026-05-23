@@ -1,4 +1,8 @@
 ## Hi there 👋
+**I'm Flatron Tech!**
+A random dude that makes code lol.
+
+# Current Repositories i work on:
 
 <!--
 **FlatronTech/FlatronTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
