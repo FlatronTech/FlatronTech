@@ -1,22 +1,14 @@
-## Hi there 👋
-**I'm Flatron Tech!**
+# Hi There, I'm Flatron Tech 👋
 
-A random dude that makes code lol.
+## Current things i worked on:
 
-## Current Repositories i work on:
-[FlatronFiles](https://github.com/FlatronTech/FlatronFiles) - Base of files for my site flatronfiles.gt.tc :P
+* 📂 **[Flatron Files](https://flatronfiles.gt.tc)** - A small free database for files :P
+- 💿 **[EnderOS](https://github.com/FlatronTech/EnderOS)** - A debloated windows 11 (well, only its files :P)
 
-<!--
-**FlatronTech/FlatronTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  My Activity
 
-Here are some ideas to get you started:
+![Contribution Graph](https://ghchart.rshah.org/FlatronTech)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Profile Stats 📝
+![FlatronTech's Github Stats](https://readme-stats-github.pages.dev/api?username=FlatronTech)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=flatrontech)
