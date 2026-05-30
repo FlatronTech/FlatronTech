@@ -12,4 +12,4 @@
 
 ### Profile Stats 📝
 ![FlatronTech's Github Stats](https://readme-stats-github.pages.dev/api?username=FlatronTech)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=flatrontech)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=FlatronTech)
