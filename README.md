@@ -1,10 +1,14 @@
 # Hi There, I'm Flatron Tech 👋
 
-## Current things i worked on:
+## Current things im working on:
 
 * 📂 **[Flatron Files](https://flatronfiles.gt.tc)** - A small free database for files :P
 - 💿 **[EnderOS](https://github.com/FlatronTech/Ender-OS)** - A debloated windows 11 (well, only its files :P)
 - 🌐 **[GruzNET Explorer](https://github.com/FlatronTech/GruzNET-Explorer)** - A small web browser written in Rust. :P
+
+## Upcoming projects:
+
+- 🌐 CipherNET Browser (The name would probably change) - Another browser but written in C++.
 
 ##  My Activity
 
