@@ -16,4 +16,4 @@
 
 ### Profile Stats 📝
 ![FlatronTech's Github Stats](https://ghstats.dev/api/card?username=FlatronTech&show_icons=false&hide=grade%2Cissues%2Cprs%2Cstreak%2Cavg)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=FlatronTech)
+![Top Languages](https://ghstats.dev/api/langs?username=FlatronTech&max_langs=10&layout=horizontal_list)
