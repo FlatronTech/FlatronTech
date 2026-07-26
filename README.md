@@ -11,5 +11,5 @@
 ![Contribution Graph](https://ghchart.rshah.org/FlatronTech)
 
 ### Profile Stats 📝
-![FlatronTech's Github Stats](https://readme-stats-github.pages.dev/api?username=FlatronTech)
+![FlatronTech's Github Stats](https://ghstats.dev/api/card?username=FlatronTech&show_icons=false&hide=grade%2Cissues%2Cprs%2Cstreak%2Cavg)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=FlatronTech)
