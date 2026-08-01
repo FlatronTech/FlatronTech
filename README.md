@@ -4,7 +4,7 @@
 
 * 📂 **[Flatron Files](https://flatronfiles.gt.tc)** - A small free database for files :P
 - 🌐 **[GruzNET Explorer](https://github.com/FlatronTech/GruzNET-Explorer)** - A small web browser written in Rust. :P
-- 🎮 Vault64 - A simple lightweight game launcher written in Rust.
+- 🎮 **[Vault64](https://github.com/FlatronTech/Vault64)** - A simple lightweight game launcher written in Rust.
 
 ## Upcoming projects:
 
