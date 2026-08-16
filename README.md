@@ -3,15 +3,16 @@
 ## Current Projects:
 
 * 📂 **[Flatron Files](https://flatronfiles.gt.tc)** - A small free database for files :P
-- 🌐 **[GruzNET Explorer](https://github.com/FlatronTech/GruzNET-Explorer)** - A small web browser written in Rust. :P
-- 🎮 **[Vault64](https://github.com/FlatronTech/Vault64)** - A simple lightweight game launcher written in Rust.
 
 ## Upcoming projects:
 
-- 🌐 CipherNET Browser (The name would probably change) - Another browser but written in C++.
+== NONE ==
 
 ## Discontinued Projects:
 - 💿 **[EnderOS](https://github.com/FlatronTech/Ender-OS)** - [*] 30/07/2026
+- 🌐 **[GruzNET Explorer](https://github.com/FlatronTech/GruzNET-Explorer)** - [*] 16/08/2026
+- 🎮 **[Vault64](https://github.com/FlatronTech/Vault64)** - [*] 16/08/2026
+
 
 ##  My Activity
 
