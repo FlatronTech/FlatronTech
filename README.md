@@ -18,7 +18,7 @@
 [![X](https://img.shields.io/badge/-@NiordFresh-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/NiordFresh)
 [![YouTube](https://img.shields.io/badge/-@FlatronTech-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@FlatronTech)
 ![Discord](https://img.shields.io/badge/-NiordFresh-7289da?style=flat-square&logo=Discord&logoColor=white)
-![TikTok](https://img.shields.io/badge/-@flatron.tech-4288FF?style=flat-square&logo=TikTok&logoColor=white)
+![TikTok](https://img.shields.io/badge/-@flatron.tech-000000?style=flat-square&logo=TikTok&logoColor=white)
 [![Other](https://img.shields.io/badge/-Other-222222?style=flat-square&logoColor=white)](https://flatrontech.rf.gd/#Sociale)
 
 ##  My Activity
