@@ -18,7 +18,7 @@
 [![X](https://img.shields.io/badge/-@FlatronTech-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/FlatronTech)
 [![YouTube](https://img.shields.io/badge/-@FlatronTech-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@FlatronTech)
 ![Discord](https://img.shields.io/badge/-flatron._.tech-7289da?style=flat-square&logo=Discord&logoColor=white)
-![TikTok](https://img.shields.io/badge/-@flatron.tech-000000?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@flatron.tech)
+[![TikTok](https://img.shields.io/badge/-@flatron.tech-000000?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@flatron.tech)
 [![Other](https://img.shields.io/badge/-Other-222222?style=flat-square&logoColor=white)](https://flatrontech.rf.gd/#Sociale)
 
 ##  My Activity
