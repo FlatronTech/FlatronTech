@@ -3,6 +3,7 @@
 ## Current Projects:
 
 * 📂 **[Flatron Files](https://flatronfiles.gt.tc)** - A small free database for files :P
+* 🌍 **[What is my browser](https://flatrontech.github.io/whatismybrowser/)** - A simple site that checks what browser do you use.
 
 ## Upcoming projects:
 
