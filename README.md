@@ -7,7 +7,7 @@
 
 ## Upcoming projects:
 
-== NONE ==
+* 📝 CodeEditer - a simple code editor.
 
 ## Discontinued Projects:
 - 💿 **[EnderOS](https://github.com/FlatronTech/Ender-OS)** - [*] 30/07/2026
