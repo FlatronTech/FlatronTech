@@ -4,10 +4,11 @@
 
 * 📂 **[Flatron Files](https://flatronfiles.gt.tc)** - A small free database for files :P
 * 🌍 **[What is my browser](https://flatrontech.github.io/whatismybrowser/)** - A simple site that checks what browser do you use.
+* 📝 **[CodeEditer](https://github.com/FlatronTech/CodeEditer)** - A simple lightweight code editor.
 
 ## Upcoming projects:
 
-* 📝 CodeEditer - a simple code editor.
+=== None, again. ===
 
 ## Discontinued Projects:
 - 💿 **[EnderOS](https://github.com/FlatronTech/Ender-OS)** - [*] 30/07/2026
