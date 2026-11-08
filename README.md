@@ -6,6 +6,8 @@
 * 🌍 **[What is my browser](https://flatrontech.github.io/whatismybrowser/)** - A simple site that checks what browser do you use.
 * 📝 **[CodeEditer](https://github.com/FlatronTech/CodeEditer)** - A simple lightweight code editor.
 * 💿 **[BrickOS](https://github.com/FlatronTech/BrickOS)** - Simple independent from Linux Kernel or NT OS.
+- 🎮 **[Vault64](https://github.com/FlatronTech/Vault64)** - Simple Lightweight game launcher.
+- 🌍 **[Zenith](https://github.com/FlatronTech/ZenithBrowser)** - An CEF-based browser with Edge 1507 look and feel.
 
 ## Upcoming projects:
 
@@ -14,7 +16,6 @@
 ## Discontinued Projects:
 - 💿 **[EnderOS](https://github.com/FlatronTech/Ender-OS)** - [*] 30/07/2026
 - 🌐 **[GruzNET Explorer](https://github.com/FlatronTech/GruzNET-Explorer)** - [*] 16/08/2026
-- 🎮 **[Vault64](https://github.com/FlatronTech/Vault64)** - [*] 16/08/2026
 
 ## Socials
 
